@@ -1,9 +1,9 @@
 from fastapi import FastAPI, Query
 
 PERSONAS = [
-    {"nombre": "Ana Gómez", "documento": "123"},
-    {"nombre": "Carlos Pérez", "documento": "456"},
-    {"nombre": "Lucía Ramírez", "documento": "789"}
+    {"nombre": "Ana", "documento": "123"},
+    {"nombre": "Carlos", "documento": "456"},
+    {"nombre": "Lucía", "documento": "789"}
 ]
 
 
